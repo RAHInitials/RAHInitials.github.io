@@ -4,9 +4,9 @@ Title: Ryan Hoyle's Homepage (yay)
 
 <p>I went to Sherando High School. I enjoy music, especially playing piano. I am also currently in an a capella group.</p>
 
-<img src="pupusa.jpg" alt="Pupusa">
+<p><img src="pupusa.jpg" alt="Pupusa"></p>
 
-<a href="http://www.se.rit.edu/~swen-101/00/index.html">SE Website</a>
+<p><a href="http://www.se.rit.edu/~swen-101/00/index.html">SE Website</a></p>
 
 <ul>
   <li>How to work properly in a team</li>
