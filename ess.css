@@ -45,6 +45,12 @@ button {
     bottom: 75%;
 }
 
+.back {
+    position: relative;
+    top: 60%;
+    right: 4%;
+}
+
 
 .spacer {
     padding-bottom: 25%;
