@@ -1,11 +1,11 @@
 
 body {
-    background-color: black;
+    background-color: rgb(69, 69, 69);
 }
 
 
 .big_div {
-    height: 1000px;
+    height: 90%;
     width: 75%;
     border: 2, solid, black;
     border-radius: 20px;
