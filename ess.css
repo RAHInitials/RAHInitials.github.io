@@ -1,0 +1,21 @@
+
+body {
+    background-color: black;
+}
+
+
+.big_div {
+    height: 1000px;
+    width: 75%;
+    border: 2, solid, black;
+    border-radius: 20px;
+    background-color: lightgrey;
+    padding: 50px;
+    position: fixed;
+    right: 12.5%;
+    top: 5%;
+}
+
+.thiccer {
+    padding: 50px;
+}
