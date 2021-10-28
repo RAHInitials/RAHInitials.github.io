@@ -21,49 +21,40 @@ button {
 }
 
 .logo {
-    position: relative;
     height: 160px;
     width: 256px;
 }
 
 .create {
-    position: relative;
-    right: 22%;
-    top: 35%;
+    position: absolute;
+    left: 13%;
+    top: 50%;
 }
 
 .log_in {
-    position: relative;
-    bottom: 25%;
+    position: absolute;
+    bottom: 10%;
+    left: 3%;
 }
 
 .log {
     width: 40%;
     height: 80%;
     border: 5px solid grey;
-    position: relative;
-    bottom: 75%;
+    position: absolute;
+    bottom: 5%;
+    right: 3%;
 }
+
+.settings {
+    position: absolute;
+    bottom: 10%;
+    left: 33%;
+}
+
 
 .back {
-    position: relative;
-    top: 60%;
-    right: 4%;
-}
-
-
-.spacer {
-    padding-bottom: 25%;
-}
-
-.f_left {
-    float: left;
-}
-
-.f_right {
-    float: right;
-}
-
-.f_none {
-    float: none;
+    position: absolute;
+    bottom: 10%;
+    left: 3%;
 }
