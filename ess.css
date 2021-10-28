@@ -8,21 +8,8 @@ button {
     font-weight: bolder;
 }
 
-.logo {
-    position: relative;
-    height: 160px;
-    width: 256px;
-}
-
-.create {
-    position: relative;
-    right: 75%;
-    top: 65%
-}
-
-
 .big_div {
-    height: 90%;
+    height: 80%;
     width: 75%;
     border: 2, solid, black;
     border-radius: 20px;
@@ -32,6 +19,32 @@ button {
     right: 12.5%;
     top: 5%;
 }
+
+.logo {
+    position: relative;
+    height: 160px;
+    width: 256px;
+}
+
+.create {
+    position: relative;
+    right: 22%;
+    top: 35%;
+}
+
+.log_in {
+    position: relative;
+    bottom: 25%;
+}
+
+.log {
+    width: 40%;
+    height: 80%;
+    border: 5px solid grey;
+    position: relative;
+    bottom: 75%;
+}
+
 
 .spacer {
     padding-bottom: 25%;
