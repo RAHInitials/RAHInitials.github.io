@@ -3,6 +3,18 @@ body {
     background-color: rgb(69, 69, 69);
 }
 
+.logo {
+    position: relative;
+    height: 150px;
+    width: 256px;
+}
+
+.create {
+    position: relative;
+    right: 75%;
+    top: 65%
+}
+
 
 .big_div {
     height: 90%;
@@ -14,8 +26,4 @@ body {
     position: fixed;
     right: 12.5%;
     top: 5%;
-}
-
-.thiccer {
-    padding: 50px;
 }
