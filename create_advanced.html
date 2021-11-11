@@ -10,7 +10,7 @@
     <!--Keyword-->
     <input type="text" name="topic" value="Enter Additional Keywords (separated by commas)" class="additional"></input>
 
-    <!--Pictures-->
+    <!--Information Density-->
     <div class="info">
       <h5>How Much Information per Slide?</h5>
       <div>
@@ -29,37 +29,39 @@
       </div>
     </div>
 
-    <!--Length-->
-    <div class="length">
-      <h5>How Long?</h5>
+    <!--format-->
+    <div class="format">
+      <h5>Bullet Points or Paragraphs?</h5>
       <div>
         <div>
-          <input type="radio" name="length" value="short" id="short"></input>
-          <label for="short">Shorter</label>
+          <input type="radio" name="format" value="bullet" id="bullet"></input>
+          <label for="bullet">Bullet Points</label>
         </div>
         <div>
-          <input type="radio" name="length" value="medium" id="medium"></input>
-          <label for="medium">Medium</label>
-        </div>
-        <div>
-          <input type="radio" name="length" value="long" id = "long"></input>
-          <label for="long">Longer</label>
+          <input type="radio" name="format" value="para" id="para"></input>
+          <label for="paragraphs">Paragraphs</label>
         </div>
       </div>
     </div>
 
     <a href="create_advanced.html">
-    <button type="button" class="btn btn-info advanced">Advanced Settings</button>
+    <button type="button" class="btn btn-info theme_selector"></button>
     </a>
 
     <a href="err.html">
-      <button type="button" class="btn btn-success create">Create!!!</button>
-      </a>
+    <button type="button" class="btn btn-success create">Create!!!</button>
+    </a>
 
   </form>
 
-  <a href="splashscreen.html">
-  <button type="button" class="btn btn-info back">Back to Main Menu</button>
+  <a href="create_basic.html">
+  <button type="button" class="btn btn-info back">Discard Changes</button>
   </a>  
+
+  <a href="create_basic.html">
+  <button type="button" class="btn btn-info apply">Apply Changes</button>
+  </a>  
+
+
 </div>
 
