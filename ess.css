@@ -115,3 +115,28 @@ button {
     bottom: 30%;
     right: 30%;
 }
+
+/* Create Presentation - Advanced*/
+
+.additional {
+    position: absolute;
+    top: 40%;
+    width: 40%;
+}
+
+.info {
+    position: absolute;
+    top: 55%;
+}
+
+#min {
+    padding: 1%;
+}
+
+#med {
+    padding: 1%;
+}
+
+#dense {
+    padding: 1%;
+}
