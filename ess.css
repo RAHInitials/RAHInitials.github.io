@@ -34,10 +34,11 @@ button {
     width: 256px;
 }
 
-.create {
+.start {
     position: absolute;
     left: 13%;
     top: 50%;
+    height: 10%;
 }
 
 .log_in {
@@ -87,7 +88,7 @@ button {
 
 .length {
     position: absolute;
-    top: 25%;
+    top: 30%;
     right: 30%;
 }
 
@@ -101,4 +102,16 @@ button {
 
 #long {
     padding: 1%;
+}
+
+.advanced {
+    position: absolute;
+    bottom: 10%;
+    right: 3%;
+}
+
+.create {
+    position: absolute;
+    bottom: 30%;
+    left: 30%;
 }
