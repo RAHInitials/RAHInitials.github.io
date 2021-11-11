@@ -85,3 +85,20 @@ button {
     padding: 1%;
 }
 
+.length {
+    position: absolute;
+    top: 25%;
+    right: 30%;
+}
+
+#short {
+    padding: 1%;
+}
+
+#medium {
+    padding: 1%;
+}
+
+#long {
+    padding: 1%;
+}
