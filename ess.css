@@ -7,7 +7,7 @@ body {
 .big_div {
     height: 80%;
     width: 75%;
-    border: 2, solid, black;
+    border: 2px, solid, black;
     border-radius: 20px;
     background-color: lightgrey;
     padding: 50px;
@@ -35,6 +35,7 @@ body {
     left: 13%;
     top: 50%;
     height: 10%;
+    width: 15%;
 }
 
 .log_in {
