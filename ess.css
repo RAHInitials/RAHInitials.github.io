@@ -4,10 +4,6 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-button {
-    font-weight: bolder;
-}
-
 .big_div {
     height: 80%;
     width: 75%;
@@ -161,7 +157,19 @@ button {
     bottom: 10%;
 }
 
-.theme_selector {
+/* Loading */
+
+.spinny {
     position: absolute;
-    
+    right: 50%;
+    top: 50%;
+    width: 5rem;
+    height: 5rem;
+}
+
+/* Presentation */
+
+.ductTapeLogo {
+    height: 132px;
+    width: 100px;
 }
